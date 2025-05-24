@@ -1,6 +1,6 @@
 public:: false
 
--
+- In the three dots at the top right, select Export Graph and export the content to the docs folder within this repository.
 - How to Publish Logseq Content to GitHub Pages using the Git Plugin
 	- Goal: Use Logseq's Git plugin to sync your graph and publish "public" pages to GitHub Pages.
 	- Prerequisites:
