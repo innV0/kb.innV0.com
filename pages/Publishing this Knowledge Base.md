@@ -1,0 +1,58 @@
+- How to Publish Logseq Content to GitHub Pages using the Git Plugin
+	- Goal: Use Logseq's Git plugin to sync your graph and publish "public" pages to GitHub Pages.
+	- Prerequisites:
+		- Logseq Desktop App (Git plugin is built-in or easily installable).
+		- A GitHub Account.
+		- Git installed on your computer (Logseq's plugin uses your local Git installation).
+		- A GitHub Repository for your Digital Garden.
+			- **Recommendation:** Name your repository `kb.innV0.com` and you'll configure GitHub Pages from your repo settings.
+	- Step 1: Initialize Git in your Logseq Graph
+		- Open your Logseq graph.
+		- Go to `Settings` (the three dots top right) -> `Graph Settings`.
+		- Scroll down to `Git` section.
+		- Enable `Version control with Git`.
+		- Ensure `Auto commit` is enabled (optional, but recommended for regular saving).
+		- **Initial Commit:** Logseq will usually prompt you to perform an initial commit. Do this.
+	- Step 2: Connect Logseq to your GitHub Repository
+		- In Logseq, go to `Settings` -> `Graph Settings` -> `Git`.
+		- In the `Remote URL` field, paste the SSH URL of your GitHub repository.
+			- **How to get the SSH URL:** Go to your GitHub repository on GitHub.com. Click the green `<> Code` button. Select `SSH`. Copy the URL (it looks like `git@github.com:your-username/your-repo-name.git`).
+			- **Important for SSH:** If you haven't already, you'll need to set up SSH keys for GitHub on your computer. This is a one-time setup outside of Logseq. Search "GitHub SSH key setup" for instructions.
+		- Leave `Branch` as `main` (or `master` if your repo uses that).
+		- In `Push options`, ensure `Push public pages` is enabled.
+		- **Initial Push:** Click the `Push` button in the Git settings (or the Git icon in the Logseq status bar at the bottom). Logseq will push your entire graph to GitHub.
+			- This initial push will also create a `logseq-public` branch on your GitHub repo. This branch will contain only your public pages.
+	- Step 3: Mark Pages as Public in Logseq
+		- For any page you want to publish:
+			- Go to the page.
+			- Add the property `public:: true` at the top of the page.
+				- Example:
+				  ```
+				  title:: My Awesome Post
+				  public:: true
+				  - Content of my awesome post.
+				  ```
+		- Only pages with `public:: true` will be exported and pushed to the `logseq-public` branch.
+	- Step 4: Configure GitHub Pages
+		- Go to your GitHub repository on GitHub.com.
+		- Click on the `Settings` tab.
+		- In the left sidebar, click `Pages`.
+		- Under "Build and deployment", for "Source", select `Deploy from a branch`.
+		- For "Branch", select **`logseq-public`** (this is the branch Logseq creates for your public content) and choose the `/ (root)` folder.
+		- Click `Save`.
+	- Step 5: Trigger a Push from Logseq to Publish
+		- After marking pages as public or making changes to existing public pages:
+			- In Logseq, click the **Git icon** in the status bar (bottom right, looks like a branch).
+			- Select `Push`.
+			- Logseq will commit your changes and push them to your `main` branch, and simultaneously update the `logseq-public` branch with the latest public pages.
+	- Step 6: Access Your Digital Garden
+		- GitHub Pages will take a few minutes to build.
+		- Your site will be live at:
+			- `https://your-github-username.github.io` (if you named your repo correctly)
+			- OR `https://your-github-username.github.io/your-repo-name/`
+		- You can check the "Pages" section in your GitHub repo settings for the exact URL.
+	- Notes:
+		- **SSH Keys:** The most common hurdle is setting up SSH keys for GitHub. Ensure this is done correctly outside Logseq.
+		- **Automatic Publishing:** Once set up, every time you push from Logseq, your public pages will automatically update on GitHub Pages.
+		- **Logseq's Export:** The Git plugin's "Push public pages" uses Logseq's internal export mechanism, similar to the manual "Export public pages" option, but automates the Git push.
+		- **Limitations:** The published site is a static, read-only version of your Logseq public pages. It won't have the full interactive Logseq experience.
