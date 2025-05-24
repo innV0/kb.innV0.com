@@ -14,7 +14,7 @@
 		- Ensure `Auto commit` is enabled (optional, but recommended for regular saving).
 		- **Initial Commit:** Logseq will usually prompt you to perform an initial commit. Do this.
 	- Step 2: Connect Logseq to your GitHub Repository
-		- In Logseq, go to `Settings` -> `Graph Settings` -> `Git`.
+		- In Logseq, go to `Settings` -> `Graph Settings` -> `Version control`.
 		- In the `Remote URL` field, paste the SSH URL of your GitHub repository.
 			- **How to get the SSH URL:** Go to your GitHub repository on GitHub.com. Click the green `<> Code` button. Select `SSH`. Copy the URL (it looks like `git@github.com:your-username/your-repo-name.git`).
 			- **Important for SSH:** If you haven't already, you'll need to set up SSH keys for GitHub on your computer. This is a one-time setup outside of Logseq. Search "GitHub SSH key setup" for instructions.
