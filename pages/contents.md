@@ -1,6 +1,4 @@
-public:: true
-
-- ## [[innV0 Labs]]
+## [[innV0 Labs]]
 	- [[PragInn]]
 	- [[md2slides_innV0]]
 	- [[sent_innV0]]

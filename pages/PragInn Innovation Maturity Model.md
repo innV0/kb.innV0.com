@@ -1,5 +1,2 @@
-public:: true
-
--
-- ### [[Innovation Maturity Model Research]]
+### [[Innovation Maturity Model Research]]
 -
