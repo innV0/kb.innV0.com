@@ -1,3 +1,5 @@
+public:: false
+
 - How to Publish Logseq Content to GitHub Pages using the Git Plugin
 	- Goal: Use Logseq's Git plugin to sync your graph and publish "public" pages to GitHub Pages.
 	- Prerequisites:
