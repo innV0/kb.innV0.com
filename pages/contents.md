@@ -9,7 +9,7 @@
 - ## innV0 Knowledge Base
 	- ### [[iNNitiatives Innovation Maturity Model]]
 	- [[Formación]]
-		- IA imagen y vídeo
+		- [[IA imagen y vídeo]]
 		- [[IA Puentes de talento]]
 	- [[Publishing this Knowledge Base]]
 		-
