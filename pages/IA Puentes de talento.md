@@ -1,7 +1,9 @@
 - Velocidad de avance de la IA.
 - ¿Quién de vosotros usa IA actualmente?
+- Principio de Pareto, 80-20
 - ¿Qué valor puede aportar la IA a una startup?
-- Vibe
+- Vibe coding
+- Automatización
 - IA en investigación.
 - Casos de uso de IA.
 - IA y Sesgos.
