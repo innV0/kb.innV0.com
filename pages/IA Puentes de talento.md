@@ -2,6 +2,8 @@
 - ¿Quién de vosotros usa IA actualmente?
 - Principio de Pareto, 80-20
 - ¿Qué valor puede aportar la IA a una startup?
+-
+- Materiales de marketing
 - Vibe coding
 - Automatización
 - IA en investigación.
