@@ -4,9 +4,10 @@
 - ¿Qué valor puede aportar la IA a una startup?
 - Diseño y validación del modelo de negocio
 - Optimización de operaciones
-- Materiales de marketing
-- Vibe coding
 - Automatización
+- Materiales de marketing
+-
+- Vibe coding
 - IA en investigación.
 - Casos de uso de IA.
 - IA y Sesgos.
