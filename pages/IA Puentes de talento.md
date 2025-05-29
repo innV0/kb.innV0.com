@@ -12,3 +12,5 @@
 - Casos de uso de IA.
 - IA y Sesgos.
 - IA y Trabajo.
+- IA Tips
+-
