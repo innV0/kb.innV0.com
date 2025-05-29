@@ -1,6 +1,6 @@
 - Velocidad de avance de la IA.
 - ¿Quién de vosotros os ha ido actualmente?
-- IA, uso de IA en investigación.
+- IA en investigación.
 - Casos de uso de IA.
-- Inteligencia Artificial y Sesgos.
-- Inteligencia Artificial y Trabajo.
+- IA y Sesgos.
+- IA y Trabajo.
