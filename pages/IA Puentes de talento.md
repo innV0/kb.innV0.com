@@ -3,6 +3,8 @@
 - ¿Quién de vosotros usa IA actualmente?
 - Principio de Pareto, 80-20
 - ¿Qué valor puede aportar la IA a una startup?
+- Facilidad para construir un producto mínimo viable.
+-
 - Diseño y validación del modelo de negocio
 - Optimización de operaciones
 - Automatización
