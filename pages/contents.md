@@ -8,7 +8,6 @@
 	- Plastilinn_innV0
 - ## innV0 Knowledge Base
 	- ### [[PragInn Innovation Maturity Model]]
-	- [PragInn Innovation Maturity Model](PragInn Innovation Maturity Model.md)
 	- [[Publishing this Knowledge Base]]
 		-
 		-
