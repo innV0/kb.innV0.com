@@ -1,0 +1,4 @@
+- Velocidad de avance de la IA.
+- IA, uso de IA en investigación.
+- Casos de uso de IA.
+-
