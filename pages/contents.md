@@ -8,7 +8,9 @@
 	- Plastilinn_innV0
 - ## innV0 Knowledge Base
 	- ### [[iNNitiatives Innovation Maturity Model]]
-	- [[IA Puentes de talento]]
+	- [[Formación]]
+		- IA imagen y vídeo
+		- [[IA Puentes de talento]]
 	- [[Publishing this Knowledge Base]]
 		-
 		-
