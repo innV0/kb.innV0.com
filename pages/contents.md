@@ -1,5 +1,5 @@
 ## [[innV0 Labs]]
-	- [[PragInn]]
+	- [[iNNitiatives]]
 	- [[md2slides_innV0]]
 	- [[sent_innV0]]
 	- [[md2web_innV0]]
@@ -7,7 +7,8 @@
 	- StruML_innV0
 	- Plastilinn_innV0
 - ## innV0 Knowledge Base
-	- ### [[PragInn Innovation Maturity Model]]
+	- ### [[iNNitiatives Innovation Maturity Model]]
+	- [[IA Puentes de talento]]
 	- [[Publishing this Knowledge Base]]
 		-
 		-

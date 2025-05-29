@@ -1,6 +1,6 @@
 public:: true
 
-- # 🧠 PragInn (Pragmatic Innovation Framework)
+- # 🧠 iNNitiatives (Pragmatic Innovation Framework)
 	- ## Actionable innovation for YOUR organization
 	- ## ❓ Do any of these sound familiar?
 	  collapsed:: true
@@ -8,20 +8,20 @@ public:: true
 		- *“We have lots of ideas, but nothing ever gets implemented.”*
 		- *“We don’t have time or budget to do innovation like the big guys.”*
 		- *“Innovation sounds great… but our day-to-day always gets in the way.”*
-		- You’re not alone. Most companies are **too busy surviving** to innovate in a way that feels real, useful, or affordable. That’s where **PragInn** comes in.
+		- You’re not alone. Most companies are **too busy surviving** to innovate in a way that feels real, useful, or affordable. That’s where **iNNitiatives** comes in.
 	- ## ⚡ Start Innovating Yesterday
 	  collapsed:: true
 		- If you apply our **pragmatic innovation framework**, it will feel like you started innovating **yesterday**
-		- We’ve already done the research, the planning, and the structuring — so you don’t have to. PragInn provides:
+		- We’ve already done the research, the planning, and the structuring — so you don’t have to. iNNitiatives provides:
 			- A complete methodology.
 			- Ready-to-use tools.
 			- A step-by-step process adapted to the reality of your business.
 		- Instead of spending months trying to figure out **how** to innovate, you can start **doing it** right away — in your actual context, with your real team, using your current resources.
-		- You don’t need to design a framework. **We’ve done it for you.** All you need is to commit and start. PragInn places you at the **starting point of real innovation**, not just strategic intention.
+		- You don’t need to design a framework. **We’ve done it for you.** All you need is to commit and start. iNNitiatives places you at the **starting point of real innovation**, not just strategic intention.
 		- ⚠️ If you don’t take this step, your competition will.
 	- ## 💪 A Relentlessly Practical Approach
 	  collapsed:: true
-		- PragInn is **not about telling inspirational stories** or listing innovation principles that sound nice on slides but are light-years away from your company’s real context.
+		- iNNitiatives is **not about telling inspirational stories** or listing innovation principles that sound nice on slides but are light-years away from your company’s real context.
 		- This framework is designed for:
 			- Companies **too busy with daily operations** to set aside 20% of their time for "creative exploration" like Google.
 			- Organizations that **can’t afford** expensive consultants or million-dollar innovation labs.
@@ -31,11 +31,11 @@ public:: true
 			- **How** to do it.
 			- **Where** and **when** to apply each step.
 			- All within the bounds of your current resources.
-		- **PragInn is built for that reality.**
+		- **iNNitiatives is built for that reality.**
 	- ## 🤖 Powered by Artificial Intelligence
 	  collapsed:: true
 		- Artificial Intelligence is not a buzzword. It’s a tool — and a powerful one — to help you prioritize, identify, and guide your innovation journey.
-		- At PragInn, we integrate AI into our framework to:
+		- At iNNitiatives, we integrate AI into our framework to:
 			- Adapt the methodology to the specific circumstances of your business.
 			- Identify patterns, needs, and insights from your team and context.
 			- Assist you in generating ideas, validating assumptions, and planning next steps.
@@ -82,7 +82,7 @@ public:: true
 			- Take two steps back to gain perspective.
 			- Reevaluate assumptions, habits, and routines.
 			- Apply better ways using existing means.
-		- 🚀 PragInn Mantras
+		- 🚀 iNNitiatives Mantras
 		  collapsed:: true
 			- “Do what you can, with what you have, where you are.”
 			- “If it doesn’t improve anything, it’s not innovation.”
@@ -109,7 +109,7 @@ public:: true
 			- Access to real users/data
 	- 📞 Let’s Talk
 	  collapsed:: true
-		- PragInn is for real-world innovation, now.
+		- iNNitiatives is for real-world innovation, now.
 		- innV0 can help you:
 			- Launch in 1 week.
 			- Design your first experiments.

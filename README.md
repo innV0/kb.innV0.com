@@ -1,6 +1,6 @@
-# PragInn Knowledge Base
+# iNNitiatives Knowledge Base
 
-Welcome to the PragInn Knowledge Base, your go-to resource for **engaging video and text content** designed to help you learn and apply innovation within your organization.
+Welcome to the iNNitiatives Knowledge Base, your go-to resource for **engaging video and text content** designed to help you learn and apply innovation within your organization.
 
 Explore a rich collection of materials covering best practices, practical methodologies, and real-world examples—from quick tutorials to in-depth case studies.
 
