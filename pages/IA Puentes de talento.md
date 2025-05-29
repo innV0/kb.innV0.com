@@ -4,7 +4,7 @@
 - Principio de Pareto, 80-20
 - ¿Qué valor puede aportar la IA a una startup?
 - Facilidad para construir un producto mínimo viable.
--
+- Dificultad para crear una ventaja competitiva sostenible.
 - Diseño y validación del modelo de negocio
 - Optimización de operaciones
 - Automatización
