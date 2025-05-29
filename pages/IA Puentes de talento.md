@@ -1,4 +1,4 @@
-- Lucas C
+- Lucas Cervera
 - Velocidad de avance de la IA.
 - ¿Quién de vosotros usa IA actualmente?
 - Principio de Pareto, 80-20
