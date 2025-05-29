@@ -1,6 +1,7 @@
 - Velocidad de avance de la IA.
 - ¿Quién de vosotros usa IA actualmente?
 - ¿Qué valor puede aportar la IA a una startup?
+- Vibe
 - IA en investigación.
 - Casos de uso de IA.
 - IA y Sesgos.
