@@ -6,7 +6,7 @@
 - Optimización de operaciones
 - Automatización
 - Materiales de marketing
--
+- Prototipado de producto
 - Vibe coding
 - IA en investigación.
 - Casos de uso de IA.
