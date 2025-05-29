@@ -12,8 +12,8 @@
 - Materiales de marketing
 - Prototipado de producto
 - Vibe coding
-- IA en investigación.
 - Casos de uso de IA.
+	- IA en investigación.
 - IA y Sesgos.
 - IA y Trabajo.
 -
