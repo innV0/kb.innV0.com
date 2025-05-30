@@ -320,10 +320,10 @@
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
 - ## Tendencias en IA 📈
-- **Interfaces de usuario más intuitivas**: Voz, gestos, 3D.
-- **IA embebida**: En dispositivos cotidianos.
-- **Modelos multimodales**: Combinación de texto, imagen y audio.
-- **Personalización extrema**: Experiencias únicas para cada usuario.
+	- **Interfaces de usuario más intuitivas**: Voz, gestos, 3D.
+	- **IA embebida**: En dispositivos cotidianos.
+	- **Modelos multimodales**: Combinación de texto, imagen y audio.
+	- **Personalización extrema**: Experiencias únicas para cada usuario.
 - ## Ejemplos de funcionalidades 🚀
   collapsed:: true
 	- ## Edición de imágenes con texto ✍️
