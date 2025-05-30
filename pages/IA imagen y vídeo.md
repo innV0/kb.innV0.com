@@ -12,7 +12,6 @@ public:: false
 		- Una idea de negocio o producto
 			- Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
 - ## Herramientas de IA imagen + vídeo
-  collapsed:: true
 	- Elección de la herramienta concreta
 		- Principio de pareto.
 		- Directorios de aplicaciones basadas en IA
