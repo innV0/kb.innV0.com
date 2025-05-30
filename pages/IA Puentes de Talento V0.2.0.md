@@ -71,8 +71,12 @@
 - **IA en investigación**: Análisis de datos, descubrimiento de patrones.
 - Avances en medicina, ciencia de materiales, etc.
 - Herramienta para la exploración de vastas cantidades de información.
+- ## Tendencias en IA 📈
+	- **Interfaces de usuario más intuitivas**: Voz, gestos, 3D.
+	- **IA embebida**: En dispositivos cotidianos.
+	- **Modelos multimodales**: Combinación de texto, imagen y audio.
+	- **Personalización extrema**: Experiencias únicas para cada usuario.
 - ### Casos de uso inteligencia artificial generativa ✨
-  collapsed:: true
 	- Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video(((https://www.youtube.com/watch?v=wVH1GcpcNFg)))}}
 	  collapsed:: true
 		- @misc{ai_2024, title={Luma Dream Machine}, url={[https://lumalabs.ai/dream-machine](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdQN2JwbTlYcllaY2tlU0hlVHY2TjI3LWlxQXxBQ3Jtc0traERQcmRZVl9fWDJyampYcThaYWNsM1VabE5NY2p6RUVjZFVkZVRYN1F2SnlpclEySkhyT2ZKWEJWYnJFM1VjcWpuRUhWeC1UaTJhUTM1Y1RQd0hSX2htWVVobGNyU1VKWHN5cjdpT25KdHg0bXZjYw&q=https%3A%2F%2Flumalabs.ai%2Fdream-machine&v=wVH1GcpcNFg)}, journal={Luma Dream Machine}, author={AI, Luma}, year={2024} }
@@ -319,12 +323,7 @@
 		- Outputs: Archivo .svg o .ai
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
-- ## Tendencias en IA 📈
-	- **Interfaces de usuario más intuitivas**: Voz, gestos, 3D.
-	- **IA embebida**: En dispositivos cotidianos.
-	- **Modelos multimodales**: Combinación de texto, imagen y audio.
-	- **Personalización extrema**: Experiencias únicas para cada usuario.
-- ## Ejemplos de funcionalidades 🚀
+- ### Ejemplos de funcionalidades 🚀
   collapsed:: true
 	- ## Edición de imágenes con texto ✍️
 	  collapsed:: true
