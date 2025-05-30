@@ -1,8 +1,8 @@
 ## Lucas Cervera
-- Velocidad de avance de la IA.
-- ¿Quién de vosotros usa IA actualmente?
-- Principio de Pareto, 80-20
-- Elección de la herramientas
+- ## Velocidad de avance de la IA
+- ## ¿Quién de vosotros usa IA actualmente?
+- ## Principio de Pareto, 80-20
+- ## Elección de la herramientas
   collapsed:: true
 	- Directorios de aplicaciones basadas en IA
 		- Discover The Best AI Websites & Tools
@@ -12,19 +12,19 @@
 		- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/)
 		- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
 		- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
-- ¿Qué valor puede aportar la IA a una startup?
-- Facilidad para construir un producto mínimo viable.
-- Dificultad para crear una ventaja competitiva sostenible.
-- Diseño y validación del modelo de negocio
+- ## ¿Qué valor puede aportar la IA a una startup?
+	- ## Facilidad para construir un producto mínimo viable.
+	- ## Dificultad para crear una ventaja competitiva sostenible.
+- ## Diseño y validación del modelo de negocio
 	- Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
-- Optimización de operaciones
-- Automatización
+- ## Optimización de operaciones
+- ## Automatización
 	- n8n Business Plan Creator
 	- https://n8n.lucascervera.com/workflow/kEXIxKnCZwthDz5y
-- Agentes de IA
-- Materiales de marketing
+- ## Agentes de IA
+- ## Materiales de marketing
 	-
-- Prototipado de producto
+- ## Prototipado de producto
 - Vibe coding
 - Casos de uso de IA.
 	- IA en investigación
