@@ -77,15 +77,20 @@
 	- **Modelos multimodales**: Combinación de texto, imagen y audio.
 	- **Personalización extrema**: Experiencias únicas para cada usuario.
 - ### Casos de uso inteligencia artificial generativa ✨
-	- #### Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video(((https://www.youtube.com/watch?v=wVH1GcpcNFg)))}}
-	  collapsed:: true
+	- #### Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube
 		- @misc{ai_2024, title={Luma Dream Machine}, url={[https://lumalabs.ai/dream-machine](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdQN2JwbTlYcllaY2tlU0hlVHY2TjI3LWlxQXxBQ3Jtc0traERQcmRZVl9fWDJyampYcThaYWNsM1VabE5NY2p6RUVjZFVkZVRYN1F2SnlpclEySkhyT2ZKWEJWYnJFM1VjcWpuRUhWeC1UaTJhUTM1Y1RQd0hSX2htWVVobGNyU1VKWHN5cjdpT25KdHg0bXZjYw&q=https%3A%2F%2Flumalabs.ai%2Fdream-machine&v=wVH1GcpcNFg)}, journal={Luma Dream Machine}, author={AI, Luma}, year={2024} }
 		- En un escenario hipotético de rodaje en 2024, escenas icónicas del cine como la de "Casablanca" serían capturadas en selfies para Instagram. La tecnología actual podría recrear videos de alta calidad a partir de una simple foto y un texto con instrucciones. Otras películas como "Con la muerte en los talones" y "Cantando bajo la lluvia" se adaptarían al uso de drones y al cambio climático, respectivamente.
-	- #### Inteligencia Artificial y robótica - YouTube {{video(((https://www.youtube.com/watch?v=mFAMwTxULhw)))}}
-	- #### Texto a impresión 3D con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=5HW13lm2RMQ)))}}
-	- #### Inteligencia Artificial para traducir vídeos - YouTube {{video(((https://www.youtube.com/watch?v=nPEUs9ifZzY)))}}
-	- #### Inteligencia artificial para detectar cáncer #innovacion #ia - YouTube {{video(((https://www.youtube.com/watch?v=mbghc4c_QrY)))}}
-	- #### De imagen a modelo 3D con IA #innovacion #inteligenciaartificial #video - YouTube {{video(((https://www.youtube.com/watch?v=F6p6k5Vz3RE)))}}
+		- {{video(((https://www.youtube.com/watch?v=wVH1GcpcNFg)))}}
+	- #### Inteligencia Artificial y robótica - YouTube
+		- {{video(((https://www.youtube.com/watch?v=mFAMwTxULhw)))}}
+	- #### Texto a impresión 3D con inteligencia artificial - YouTube
+		- {{video(((https://www.youtube.com/watch?v=5HW13lm2RMQ)))}}
+	- #### Inteligencia Artificial para traducir vídeos - YouTube
+		- {{video(((https://www.youtube.com/watch?v=nPEUs9ifZzY)))}}
+	- #### Inteligencia artificial para detectar cáncer #innovacion #ia - YouTube
+		- {{video(((https://www.youtube.com/watch?v=mbghc4c_QrY)))}}
+	- #### De imagen a modelo 3D con IA #innovacion #inteligenciaartificial #video - YouTube
+		- {{video(((https://www.youtube.com/watch?v=F6p6k5Vz3RE)))}}
 	- #### Añade efectos especiales a tu video con IA #innovación #video #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=cnp9A__4Egw)))}}
 	- #### Deepfakes y suplantación de identidad #innovacion #seguridad #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=RMUzzEg1Uhg)))}}
 	- #### Texto a vídeo con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=-TV8rwwCne0)))}}
