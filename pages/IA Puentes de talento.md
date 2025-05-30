@@ -15,7 +15,8 @@
 - Vibe coding
 - Casos de uso de IA.
 	- IA en investigación.
--
+- Tendencias en IA
+	- interfaces de usuario, voz, control del ordenador, 3D)
 - IA y Sesgos.
 - IA y Trabajo.
 -
