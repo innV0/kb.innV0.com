@@ -11,6 +11,8 @@
 	- [[Formación]]
 		- [[IA imagen y vídeo]]
 		- [[IA Puentes de talento]]
+		- [[IA Puentes de Talento V0.2.0]]
+		-
 	- [[Publishing this Knowledge Base]]
 		-
 		-
