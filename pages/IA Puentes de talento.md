@@ -2,7 +2,8 @@
 - Velocidad de avance de la IA.
 - ¿Quién de vosotros usa IA actualmente?
 - Principio de Pareto, 80-20
-- Elección de la herramienta concreta
+- Elección de la herramientas
+  collapsed:: true
 	- Directorios de aplicaciones basadas en IA
 		- Discover The Best AI Websites & Tools
 		- [25974 AIs and](/#now) [459 categories](/category) in the best AI tools directory. AI tools list & GPTs store are updated daily by ChatGPT. [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
