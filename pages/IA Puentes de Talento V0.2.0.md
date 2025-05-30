@@ -77,33 +77,32 @@
 	- **Modelos multimodales**: Combinación de texto, imagen y audio.
 	- **Personalización extrema**: Experiencias únicas para cada usuario.
 - ### Casos de uso inteligencia artificial generativa ✨
-	- Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video(((https://www.youtube.com/watch?v=wVH1GcpcNFg)))}}
+	- #### Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video(((https://www.youtube.com/watch?v=wVH1GcpcNFg)))}}
 	  collapsed:: true
 		- @misc{ai_2024, title={Luma Dream Machine}, url={[https://lumalabs.ai/dream-machine](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdQN2JwbTlYcllaY2tlU0hlVHY2TjI3LWlxQXxBQ3Jtc0traERQcmRZVl9fWDJyampYcThaYWNsM1VabE5NY2p6RUVjZFVkZVRYN1F2SnlpclEySkhyT2ZKWEJWYnJFM1VjcWpuRUhWeC1UaTJhUTM1Y1RQd0hSX2htWVVobGNyU1VKWHN5cjdpT25KdHg0bXZjYw&q=https%3A%2F%2Flumalabs.ai%2Fdream-machine&v=wVH1GcpcNFg)}, journal={Luma Dream Machine}, author={AI, Luma}, year={2024} }
 		- En un escenario hipotético de rodaje en 2024, escenas icónicas del cine como la de "Casablanca" serían capturadas en selfies para Instagram. La tecnología actual podría recrear videos de alta calidad a partir de una simple foto y un texto con instrucciones. Otras películas como "Con la muerte en los talones" y "Cantando bajo la lluvia" se adaptarían al uso de drones y al cambio climático, respectivamente.
-	- Inteligencia Artificial y robótica - YouTube {{video(((https://www.youtube.com/watch?v=mFAMwTxULhw)))}}
-	- Texto a impresión 3D con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=5HW13lm2RMQ)))}}
-	- Inteligencia Artificial para traducir vídeos - YouTube {{video(((https://www.youtube.com/watch?v=nPEUs9ifZzY)))}}
-	- Inteligencia artificial para detectar cáncer #innovacion #ia - YouTube {{video(((https://www.youtube.com/watch?v=mbghc4c_QrY)))}}
-	- De imagen a modelo 3D con IA #innovacion #inteligenciaartificial #video - YouTube {{video(((https://www.youtube.com/watch?v=F6p6k5Vz3RE)))}}
-	- Añade efectos especiales a tu video con IA #innovación #video #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=cnp9A__4Egw)))}}
-	- Deepfakes y suplantación de identidad #innovacion #seguridad #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=RMUzzEg1Uhg)))}}
-	- Texto a vídeo con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=-TV8rwwCne0)))}}
-	- Inteligencia artificial crea vídeos a partir de texto - YouTube {{video(((https://www.youtube.com/watch?v=cx4M6RQkcaI)))}}
-	- Inteligencia artificial para borrar cosas de vídeos - YouTube {{video(((https://www.youtube.com/watch?v=mKbe2MUh60o)))}}
-	- La inteligencia artificial ángel o demonio - YouTube {{video(((https://www.youtube.com/watch?v=1mQWcoSRYeE)))}}
-	- RunwayML gen 2 Crea vídeos a partir de texto #innovación #vídeo vertical subtitles - YouTube {{video(((https://www.youtube.com/watch?v=NfGh0_8576s)))}}
-	- Leonardo ai crea tu foto de prom #innovacion #ia #text2image - YouTube {{video(((https://www.youtube.com/watch?v=3qZQH8uf8uY)))}}
-		- #LORA
-	- Crea un personaje con Dall e 3 #innovacion #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=G4AeRTs3HDc)))}}
-	- IA mezcla foto y vídeo #innovación #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=M60rKxEcvnw)))}}
-	- Crea canciones con inteligencia artificial #innovación #inteligenciaartificial #música - YouTube {{video(((https://www.youtube.com/watch?v=Dk_Eg_zCkuA)))}}
-	- Clona estilos musicales con IA (suno) #innovación #música #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=-dlEgstx6qY)))}}
-	- De ecografía 3D a rostro con IA #innovacion #inteligenciaartificial #medicina - YouTube {{video(((https://www.youtube.com/watch?v=xrWTWHbNmEk&t=13s)))}}
-	- App para generar tu avatar super realista - YouTube {{video(((https://www.youtube.com/watch?v=a9OQthbAYhQ&t=18s)))}}
-	- Avatar creado con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=vOPX3UYZJEQ)))}}
-	- Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video(((https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s)))}}
-	- Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video(((https://www.youtube.com/watch?v=Es65cvCrw6k)))}}
+	- #### Inteligencia Artificial y robótica - YouTube {{video(((https://www.youtube.com/watch?v=mFAMwTxULhw)))}}
+	- #### Texto a impresión 3D con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=5HW13lm2RMQ)))}}
+	- #### Inteligencia Artificial para traducir vídeos - YouTube {{video(((https://www.youtube.com/watch?v=nPEUs9ifZzY)))}}
+	- #### Inteligencia artificial para detectar cáncer #innovacion #ia - YouTube {{video(((https://www.youtube.com/watch?v=mbghc4c_QrY)))}}
+	- #### De imagen a modelo 3D con IA #innovacion #inteligenciaartificial #video - YouTube {{video(((https://www.youtube.com/watch?v=F6p6k5Vz3RE)))}}
+	- #### Añade efectos especiales a tu video con IA #innovación #video #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=cnp9A__4Egw)))}}
+	- #### Deepfakes y suplantación de identidad #innovacion #seguridad #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=RMUzzEg1Uhg)))}}
+	- #### Texto a vídeo con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=-TV8rwwCne0)))}}
+	- #### Inteligencia artificial crea vídeos a partir de texto - YouTube {{video(((https://www.youtube.com/watch?v=cx4M6RQkcaI)))}}
+	- #### Inteligencia artificial para borrar cosas de vídeos - YouTube {{video(((https://www.youtube.com/watch?v=mKbe2MUh60o)))}}
+	- #### La inteligencia artificial ángel o demonio - YouTube {{video(((https://www.youtube.com/watch?v=1mQWcoSRYeE)))}}
+	- #### RunwayML gen 2 Crea vídeos a partir de texto #innovación #vídeo vertical subtitles - YouTube {{video(((https://www.youtube.com/watch?v=NfGh0_8576s)))}}
+	- #### Leonardo ai crea tu foto de prom #innovacion #ia #text2image - YouTube {{video(((https://www.youtube.com/watch?v=3qZQH8uf8uY)))}}
+	- #### Crea un personaje con Dall e 3 #innovacion #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=G4AeRTs3HDc)))}}
+	- #### IA mezcla foto y vídeo #innovación #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=M60rKxEcvnw)))}}
+	- #### Crea canciones con inteligencia artificial #innovación #inteligenciaartificial #música - YouTube {{video(((https://www.youtube.com/watch?v=Dk_Eg_zCkuA)))}}
+	- #### Clona estilos musicales con IA (suno) #innovación #música #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=-dlEgstx6qY)))}}
+	- #### De ecografía 3D a rostro con IA #innovacion #inteligenciaartificial #medicina - YouTube {{video(((https://www.youtube.com/watch?v=xrWTWHbNmEk&t=13s)))}}
+	- #### App para generar tu avatar super realista - YouTube {{video(((https://www.youtube.com/watch?v=a9OQthbAYhQ&t=18s)))}}
+	- #### Avatar creado con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=vOPX3UYZJEQ)))}}
+	- #### Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video(((https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s)))}}
+	- #### Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video(((https://www.youtube.com/watch?v=Es65cvCrw6k)))}}
 - ### Funcionalidades de la inteligencia artificial para la generación de imagen 🖼️
   collapsed:: true
 	- ## 🎨 Creación de imágenes a partir de prompts de texto
