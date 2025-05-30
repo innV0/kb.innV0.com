@@ -2,7 +2,6 @@
 - Velocidad de avance de la IA.
 - ¿Quién de vosotros usa IA actualmente?
 - Principio de Pareto, 80-20
-- IA Tips
 - ¿Qué valor puede aportar la IA a una startup?
 - Facilidad para construir un producto mínimo viable.
 - Dificultad para crear una ventaja competitiva sostenible.
@@ -16,7 +15,8 @@
 - Casos de uso de IA.
 	- IA en investigación.
 - Tendencias en IA
-	- interfaces de usuario, voz, control del ordenador, 3D)
+	- interfaces de usuario (voz, control del ordenador, 3D)
+- IA Tips
 - IA y Sesgos.
 - IA y Trabajo.
 -
