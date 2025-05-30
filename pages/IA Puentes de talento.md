@@ -18,7 +18,8 @@
 - Diseño y validación del modelo de negocio
 - Optimización de operaciones
 - Automatización
-	-
+	- n8n Business Plan Creator
+	- https://n8n.lucascervera.com/workflow/kEXIxKnCZwthDz5y
 - Agentes de IA
 - Materiales de marketing
 - Prototipado de producto
