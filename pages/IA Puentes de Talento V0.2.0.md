@@ -109,14 +109,22 @@
 		- {{video(((https://www.youtube.com/watch?v=3qZQH8uf8uY)))}}
 	- #### Crea un personaje con Dall e 3 #innovacion #inteligenciaartificial - YouTube
 		- {{video(((https://www.youtube.com/watch?v=G4AeRTs3HDc)))}}
-	- #### IA mezcla foto y vídeo #innovación #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=M60rKxEcvnw)))}}
-	- #### Crea canciones con inteligencia artificial #innovación #inteligenciaartificial #música - YouTube {{video(((https://www.youtube.com/watch?v=Dk_Eg_zCkuA)))}}
-	- #### Clona estilos musicales con IA (suno) #innovación #música #inteligenciaartificial - YouTube {{video(((https://www.youtube.com/watch?v=-dlEgstx6qY)))}}
-	- #### De ecografía 3D a rostro con IA #innovacion #inteligenciaartificial #medicina - YouTube {{video(((https://www.youtube.com/watch?v=xrWTWHbNmEk&t=13s)))}}
-	- #### App para generar tu avatar super realista - YouTube {{video(((https://www.youtube.com/watch?v=a9OQthbAYhQ&t=18s)))}}
-	- #### Avatar creado con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=vOPX3UYZJEQ)))}}
-	- #### Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video(((https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s)))}}
-	- #### Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video(((https://www.youtube.com/watch?v=Es65cvCrw6k)))}}
+	- #### IA mezcla foto y vídeo #innovación #inteligenciaartificial - YouTube
+		- {{video(((https://www.youtube.com/watch?v=M60rKxEcvnw)))}}
+	- #### Crea canciones con inteligencia artificial #innovación #inteligenciaartificial #música - YouTube
+		- {{video(((https://www.youtube.com/watch?v=Dk_Eg_zCkuA)))}}
+	- #### Clona estilos musicales con IA (suno) #innovación #música #inteligenciaartificial - YouTube
+		- {{video(((https://www.youtube.com/watch?v=-dlEgstx6qY)))}}
+	- #### De ecografía 3D a rostro con IA #innovacion #inteligenciaartificial #medicina - YouTube
+		- {{video(((https://www.youtube.com/watch?v=xrWTWHbNmEk&t=13s)))}}
+	- #### App para generar tu avatar super realista - YouTube
+		- {{video(((https://www.youtube.com/watch?v=a9OQthbAYhQ&t=18s)))}}
+	- #### Avatar creado con inteligencia artificial - YouTube
+		- {{video(((https://www.youtube.com/watch?v=vOPX3UYZJEQ)))}}
+	- #### Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube
+		- {{video(((https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s)))}}
+	- #### Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube
+		- {{video(((https://www.youtube.com/watch?v=Es65cvCrw6k)))}}
 - ### Funcionalidades de la inteligencia artificial para la generación de imagen 🖼️
   collapsed:: true
 	- ## 🎨 Creación de imágenes a partir de prompts de texto
