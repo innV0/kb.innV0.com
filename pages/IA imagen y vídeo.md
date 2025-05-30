@@ -335,6 +335,5 @@ public:: false
 	  collapsed:: true
 	- [Prediction minimax/music-01 – Replicate](https://replicate.com/p/v3vgpgmz3srme0cpmr09kyc6bc)
 - ## Automatización de creación de imágenes
-  collapsed:: true
 	- Consideraciones éticas ilegales de la generación de imágenes con IA.
 	- Sesgos en la generación de imágenes con IA.

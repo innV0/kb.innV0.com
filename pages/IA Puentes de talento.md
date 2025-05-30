@@ -277,6 +277,73 @@
 		- enes
 - Tendencias en IA
 	- interfaces de usuario (voz, control del ordenador, 3D)
+- ## Ejemplos de funcionalidades
+  collapsed:: true
+	- ## Edición de imágenes con texto
+	  collapsed:: true
+		- ![lucas.png](../assets/lucas_1746534173278_0.png)
+	- [Prediction zsxkib/step1x-edit – Replicate](https://replicate.com/p/y4sda3ehexrj60cpmp7b9rxfng)
+	- ## Texto a voz
+	  collapsed:: true
+	- [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
+	- ## Clonación de voz
+	  collapsed:: true
+		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
+	- [minimax/voice-cloning – Run with an API on Replicate](https://replicate.com/minimax/voice-cloning)
+	  collapsed:: true
+		- voice_id: R8_XZHESM8J
+	- [minimax/speech-02-turbo – Run with an API on Replicate](https://replicate.com/minimax/speech-02-turbo?prediction=b22xgy0jqhrme0cpmp5940crkm)
+	- ## Cambiar el fondo de una imagen
+	  collapsed:: true
+		- ![replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp](../assets/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng_1746535054243_0.webp)
+			- https://replicate.delivery/pbxt/MxfDCQmfpdpyKzmX1ueHbomnly3ELFN2H0t7hFjEL94Z3Nr5/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp
+	- [wolverinn/realistic-background – Run with an API on Replicate](https://replicate.com/wolverinn/realistic-background?prediction=65r4bxkgenrma0cpmp98erw4wg)
+	  collapsed:: true
+	    ![f86fb2ee-2a75-11f0-b7bd-967147130beb.png](../assets/f86fb2ee-2a75-11f0-b7bd-967147130beb_1746535101434_0.png)
+		- https://replicate.delivery/xezq/UHCl3UGbh1qFIhMDT56GQzfRoeCSeFWLMdCZfOPIi3cXwsnSB/f86fb2ee-2a75-11f0-b7bd-967147130beb.png
+		- ## Ampliar una imagen
+	- [Prediction fermatresearch/magic-image-refiner – Replicate](https://replicate.com/p/czp02tmgx1rme0cpmpfawz56pr)
+	- ## Mejorar una imagen
+		- Elimina el borde negro que hay alrededor del personaje para que el personaje quede integrado con el fondo. Ponle un casco medieval.
+		- ![ChatGPT Image 6 may 2025, 14_57_08.png](../assets/ChatGPT_Image_6_may_2025,_14_57_08_1746536276518_0.png)
+	- ## Describir una imagen contexto
+	  collapsed:: true
+		- The image features a man wearing a medieval helmet and a brown shirt, standing in a hallway. He is smiling and appears to be posing for the picture. The setting suggests that the man is dressed in a historical costume, possibly representing a knight or a character from a medieval period.
+	- [Prediction lucataco/moondream2 – Replicate](https://replicate.com/p/m62wnc78xdrme0cpmppt01xtww)
+	- ## Añade partes a una imagen (outpainting)
+	  collapsed:: true
+	- [Prediction emaph/outpaint-controlnet-union – Replicate](https://replicate.com/p/hv2wjb1mf5rmc0cpmpsaq2rxhr)
+	- ## Identifica objetos en una imagen
+	  collapsed:: true
+		- ![replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm.png](../assets/replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm_1746536858417_0.png)
+	- [adirik/grounding-dino – Run with an API on Replicate](https://replicate.com/adirik/grounding-dino?prediction=k4qt3g86j9rmc0cpmptb4y2dtm)
+	- ## Generación de ilustraciones
+	  collapsed:: true
+		- Un escudo medieval con una cabra dentro y con el texto "Don Mendo Salazar y Bernáldez de Montiel" en letras medievales.
+	- [Prediction recraft-ai/recraft-v3-svg – Replicate](https://replicate.com/p/a89abqkc55rm80cpmq2t1r1qpc)
+	- ## Crear una ilustración del personaje
+	  collapsed:: true
+		- ![replicate-prediction-qw9brgga75rma0cpmq88ge2x9m.png](../assets/replicate-prediction-qw9brgga75rma0cpmq88ge2x9m_1746538682994_0.png)
+	- [Prediction roblester/editorial-cartoon – Replicate](https://replicate.com/p/qw9brgga75rma0cpmq88ge2x9m)
+	- ## Crear un objeto 3D a partir de una imagen
+	  collapsed:: true
+		- ![image.png](../assets/image_1746538928879_0.png)
+	- [Prediction firtoz/trellis – Replicate](https://replicate.com/p/vsp1ay5ckhrj00cpmq9a4xs178)
+	- ## Generar un vídeo a partir de una imagen
+	  collapsed:: true
+		- ![image.png](../assets/image_1746539556121_0.png)
+	- [Prediction kwaivgi/kling-v2.0 – Replicate](https://replicate.com/p/grvgemnyv5rm80cpmqc87ph2sc)
+	- ## Modificar una imagen con inpainting
+	  collapsed:: true
+		- ![image.png](../assets/image_1746539661009_0.png)
+	- [Replicate playground - Compare models, rapidly prototype, and tweak and refine results.](https://replicate.com/playground/)
+	- ## Crear música de fondo
+	  collapsed:: true
+		- Música medieval alegre española con mandolina
+	- [Prediction meta/musicgen – Replicate](https://replicate.com/p/n36ar9b1asrj20cpmqyvps4tx0)
+	- ## Crear canción a partir de música.
+	  collapsed:: true
+	- [Prediction minimax/music-01 – Replicate](https://replicate.com/p/v3vgpgmz3srme0cpmr09kyc6bc)
 - IA Tips
 - IA y Sesgos.
 - IA y Trabajo.
