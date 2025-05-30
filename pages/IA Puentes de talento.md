@@ -16,7 +16,7 @@
 - Facilidad para construir un producto mínimo viable.
 - Dificultad para crear una ventaja competitiva sostenible.
 - Diseño y validación del modelo de negocio
-	-
+	- Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
 - Optimización de operaciones
 - Automatización
 	- n8n Business Plan Creator
