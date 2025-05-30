@@ -2,6 +2,15 @@
 - Velocidad de avance de la IA.
 - ¿Quién de vosotros usa IA actualmente?
 - Principio de Pareto, 80-20
+- Elección de la herramienta concreta
+	- Directorios de aplicaciones basadas en IA
+	- Herramientas propietarias versus Open Source
+	- Funcionalidad, SaaS, API o local
+	- Para utilizar en tu trabajo
+	- Para utilizar en esta clase
+		- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/)
+		- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
+		- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
 - ¿Qué valor puede aportar la IA a una startup?
 - Facilidad para construir un producto mínimo viable.
 - Dificultad para crear una ventaja competitiva sostenible.
