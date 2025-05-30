@@ -15,10 +15,8 @@
 - Identificar y enfocarse en lo más eficiente.
 - Maximizar el impacto con menos recursos.
 - ## Elección de la herramientas 🛠️
-  collapsed:: true
 	- Directorios de aplicaciones basadas en IA
-		- Discover The Best AI Websites & Tools
-		- [25974 AIs and](/#now) [459 categories](/category) in the best AI tools directory. AI tools list & GPTs store are updated daily by ChatGPT. [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
+		- [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 	- Herramientas propietarias versus Open Source
 		- **Propietarias:** Mayor soporte, funcionalidades premium.
 		- **Open Source:** Flexibilidad, personalización, comunidad.
