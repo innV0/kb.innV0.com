@@ -9,6 +9,7 @@
 - Diseño y validación del modelo de negocio
 - Optimización de operaciones
 - Automatización
+- Agentes de IA
 - Materiales de marketing
 - Prototipado de producto
 - Vibe coding
