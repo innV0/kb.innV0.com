@@ -25,10 +25,10 @@
 - ## Materiales de marketing
 	-
 - ## Prototipado de producto
-- Vibe coding
-- Casos de uso de IA.
+- ## Vibe coding
+- ## Casos de uso de IA
 	- IA en investigación
-- ## Casos de uso inteligencia artificial generativa
+- ### Casos de uso inteligencia artificial generativa
   collapsed:: true
 	- Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video(((https://www.youtube.com/watch?v=wVH1GcpcNFg)))}}
 	  collapsed:: true
@@ -57,7 +57,7 @@
 	- Avatar creado con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=vOPX3UYZJEQ)))}}
 	- Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video(((https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s)))}}
 	- Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video(((https://www.youtube.com/watch?v=Es65cvCrw6k)))}}
-- ## Funcionalidades de la inteligencia artificial para la generación de imagen
+- ### Funcionalidades de la inteligencia artificial para la generación de imagen
   collapsed:: true
 	- ## 🎨 Creación de imágenes a partir de prompts de texto
 	  collapsed:: true
@@ -276,7 +276,7 @@
 		- Outputs: Archivo .svg o .ai
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
-- Tendencias en IA
+- ## Tendencias en IA
 	- interfaces de usuario (voz, control del ordenador, 3D)
 - ## Ejemplos de funcionalidades
   collapsed:: true
@@ -345,7 +345,7 @@
 	- ## Crear canción a partir de música.
 	  collapsed:: true
 	- [Prediction minimax/music-01 – Replicate](https://replicate.com/p/v3vgpgmz3srme0cpmr09kyc6bc)
-- IA Tips
-- IA y Sesgos.
-- IA y Trabajo.
+- ## IA Tips
+- ## IA y Sesgos
+- ## IA y Trabajo
 -
