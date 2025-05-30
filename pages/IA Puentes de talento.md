@@ -8,8 +8,6 @@
 		- [25974 AIs and](/#now) [459 categories](/category) in the best AI tools directory. AI tools list & GPTs store are updated daily by ChatGPT. [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 	- Herramientas propietarias versus Open Source
 	- Funcionalidad, SaaS, API o local
-	- Para utilizar en tu trabajo
-	- Para utilizar en esta clase
 		- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/)
 		- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
 		- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
