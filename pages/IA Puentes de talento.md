@@ -15,6 +15,7 @@
 - Vibe coding
 - Casos de uso de IA.
 	- IA en investigación.
+-
 - IA y Sesgos.
 - IA y Trabajo.
 -
