@@ -1,27 +1,52 @@
-## Lucas Cervera 🚀
+# Markdown to Slides Converter
+
+This app converts your Markdown content into beautiful HTML presentations powered by Reveal.js.
+- ## How to Use This App
+- Paste your Markdown content in this text area or drag & drop a .md file
+- Use # (h1), ## (h2), or ### (h3) headers to define new slides
+- All content below a header will be part of that slide
+- You can use standard Markdown formatting:
+	- Lists (ordered and unordered)
+	- **Bold text** and *Italic text*
+	- [Links](https://example.com)
+	- Code blocks with syntax highlighting
+	- > Blockquotes for important points
+- ## Working with Images
+- Include images using standard Markdown syntax:
+  ![Alt text](https://example.com/image.jpg)
+- Images are automatically sized to fit the slide
+- For local images, make sure to save the HTML file in the same directory as your images
+- Recommended image dimensions: 1280×720px or 1920×1080px
+- Supported formats: JPG, PNG, GIF, SVG
+- ## Embedding Videos
+- YouTube videos can be embedded using this special syntax:
+  {{video(https://www.youtube.com/watch?v=f49LJV1i-_w)}}
+- This will display a clickable thumbnail that opens the video in a new tab
+- You can also use youtu.be short links:
+  {{video(https://youtu.be/a6ioNtv2H-E)}}
+- ## Customizing Your Presentation
+- Use the Reveal.js Settings panel to customize your presentation
+- Choose from 11 built-in themes
+- Set transitions between slides
+- Configure navigation controls, progress bar, and slide numbers
+- Adjust scaling parameters for different screen sizes
+- Enable advanced features like parallax backgrounds
+- ## Lucas Cervera 🚀
 - ¡Hola a todos! 👋
 - Apasionado por la tecnología y la innovación.
 - Explorando el **futuro de la IA**.
-  
-  ---
 - ## Velocidad de avance de la IA ⚡
 - La **IA evoluciona a un ritmo vertiginoso**.
 - Nuevas herramientas y modelos surgen constantemente.
 - Mantenerse actualizado es clave.
-  
-  ---
 - ## ¿Quién de vosotros usa IA actualmente? 🤔
 - ¿Qué herramientas utilizáis?
 - ¿Para qué tareas la aplicáis?
 - Compartamos experiencias.
-  
-  ---
 - ## Principio de Pareto, 80-20 ✅
 - El **20% de las herramientas** o esfuerzos generan el **80% de los resultados**.
 - Identificar y enfocarse en lo más eficiente.
 - Maximizar el impacto con menos recursos.
-  
-  ---
 - ## Elección de la herramientas 🛠️
   collapsed:: true
 	- Directorios de aplicaciones basadas en IA
@@ -34,77 +59,53 @@
 		- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/) (SaaS, generación de imágenes)
 		- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/) (API para modelos de IA)
 		- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/) (Ejecución local de modelos)
-		  
-		  ---
 - ## ¿Qué valor puede aportar la IA a una startup? 💡
 - **Eficiencia y escalabilidad**: Automatización de tareas repetitivas.
 - **Toma de decisiones**: Análisis de datos para insights.
 - **Innovación de producto**: Creación de nuevas funcionalidades.
 - **Personalización**: Experiencias a medida para usuarios.
-  
-  ---
 - ### Facilidad para construir un producto mínimo viable. 🏗️
 - Prototipado rápido con herramientas de IA generativa.
 - Reducción de tiempos y costes de desarrollo.
 - Testeo de ideas de forma ágil.
-  
-  ---
 - ### Dificultad para crear una ventaja competitiva sostenible. 🚧
 - La accesibilidad de la IA puede homogeneizar productos.
 - La **innovación constante** y la **ejecución excepcional** son clave.
 - Enfoque en la diferenciación del modelo de negocio, no solo la tecnología.
-  
-  ---
 - ## Diseño y validación del modelo de negocio 🎯
 - **Investigación de mercado asistida por IA**: Análisis de tendencias y competidores.
 - **Generación de escenarios**: Simulación de modelos de negocio.
 - **Feedback iterativo**: IA para procesar encuestas y entrevistas.
 - Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en) (Un ejemplo de innovación en el diseño)
-  
-  ---
 - ## Optimización de operaciones ⚙️
 - **Automatización de procesos**: Reducción de errores y costes.
 - **Gestión de inventario**: Predicción de demanda.
 - **Logística inteligente**: Optimización de rutas y entregas.
-  
-  ---
 - ## Automatización 🤖
 - **Flujos de trabajo con IA**: Conectar diferentes herramientas y procesos.
 - **Generación de contenido**: Informes, emails, etc.
 - n8n Business Plan Creator
 - https://n8n.lucascervera.com/workflow/kEXIxKnCZwthDz5y (Ejemplo de automatización con n8n)
-  
-  ---
 - ## Agentes de IA 🧠
 - **IA que interactúa de forma autónoma**.
 - Realizan tareas complejas sin intervención humana.
 - Potencial para transformar la productividad.
-  
-  ---
 - ## Materiales de marketing 📈
 - **Generación de textos persuasivos**: Anuncios, descripciones de productos.
 - **Creación de imágenes y vídeos**: Contenido visual atractivo.
 - **Personalización de campañas**: Mensajes dirigidos a segmentos específicos.
-  
-  ---
 - ## Prototipado de producto 🧪
 - **Modelos 3D y simulaciones**: Diseño y prueba de productos.
 - **Generación de interfaces de usuario**: Mockups y wireframes.
 - **Análisis de usabilidad**: Detección de puntos de mejora.
-  
-  ---
 - ## Vibe coding 🧑‍💻
 - **Asistencia en la programación**: Generación de código, depuración.
 - **Integración de IA en entornos de desarrollo**.
 - Acelerar el ciclo de desarrollo de software.
-  
-  ---
 - ## Casos de uso de IA 🌐
 - **IA en investigación**: Análisis de datos, descubrimiento de patrones.
 - Avances en medicina, ciencia de materiales, etc.
 - Herramienta para la exploración de vastas cantidades de información.
-  
-  ---
 - ### Casos de uso inteligencia artificial generativa ✨
   collapsed:: true
 	- Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video(((https://www.youtube.com/watch?v=wVH1GcpcNFg)))}}
@@ -134,8 +135,6 @@
 	- Avatar creado con inteligencia artificial - YouTube {{video(((https://www.youtube.com/watch?v=vOPX3UYZJEQ)))}}
 	- Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video(((https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s)))}}
 	- Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video(((https://www.youtube.com/watch?v=Es65cvCrw6k)))}}
-	  
-	  ---
 - ### Funcionalidades de la inteligencia artificial para la generación de imagen 🖼️
   collapsed:: true
 	- ## 🎨 Creación de imágenes a partir de prompts de texto
@@ -355,15 +354,11 @@
 		- Outputs: Archivo .svg o .ai
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
-		  
-		  ---
 - ## Tendencias en IA 📈
 - **Interfaces de usuario más intuitivas**: Voz, gestos, 3D.
 - **IA embebida**: En dispositivos cotidianos.
 - **Modelos multimodales**: Combinación de texto, imagen y audio.
 - **Personalización extrema**: Experiencias únicas para cada usuario.
-  
-  ---
 - ## Ejemplos de funcionalidades 🚀
   collapsed:: true
 	- ## Edición de imágenes con texto ✍️
@@ -431,21 +426,15 @@
 	- ## Crear canción a partir de música. 🎵
 	  collapsed:: true
 	- [Prediction minimax/music-01 – Replicate](https://replicate.com/p/v3vgpgmz3srme0cpmr09kyc6bc)
-	  
-	  ---
 - ## IA Tips 💡
 - **Experimenta con prompts**: La calidad de la salida depende de la entrada.
 - **Combina herramientas**: Para flujos de trabajo más complejos.
 - **Mantente informado**: La IA avanza rápido.
 - **Considera la ética**: Uso responsable de la tecnología.
-  
-  ---
 - ## IA y Sesgos ⚖️
 - Los modelos de IA pueden reflejar **sesgos presentes en los datos de entrenamiento**.
 - Es crucial ser consciente y trabajar para mitigar estos sesgos.
 - Impacto en la equidad y la justicia.
-  
-  ---
 - ## IA y Trabajo 💼
 - La IA como **colaborador, no reemplazo**.
 - **Aumenta la productividad** y permite enfocarse en tareas de mayor valor.
