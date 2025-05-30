@@ -4,6 +4,7 @@
 - Principio de Pareto, 80-20
 - Elección de la herramienta concreta
 	- Directorios de aplicaciones basadas en IA
+		-
 	- Herramientas propietarias versus Open Source
 	- Funcionalidad, SaaS, API o local
 	- Para utilizar en tu trabajo
