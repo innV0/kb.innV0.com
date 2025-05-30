@@ -16,6 +16,7 @@
 - Facilidad para construir un producto mínimo viable.
 - Dificultad para crear una ventaja competitiva sostenible.
 - Diseño y validación del modelo de negocio
+	-
 - Optimización de operaciones
 - Automatización
 	- n8n Business Plan Creator
